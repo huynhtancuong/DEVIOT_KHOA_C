@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1630824139 source:c:\users\huynh\onedrive\documents\git\deviot_khoa_c\buoi_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
