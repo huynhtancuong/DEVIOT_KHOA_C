@@ -5,7 +5,7 @@
 #define clearbit(byte, pos)     byte&=~(1<<pos) //Bai tap 2
 #define togglebit(byte, pos)    byte^=(1<<pos) //Bai tap 3
 
-void printbit(int num)  //Bai tap 4
+void printbit(char num)  //Bai tap 4
 {
     int bits=sizeof(num)*8;
     for (int i = 0; i<bits; i++)
@@ -47,7 +47,6 @@ void BT6()  //Bai tap 6
 
 int main()
 {
-    BT5();
-    BT6();
+    printbit((char)5);
     return 0;
 }
