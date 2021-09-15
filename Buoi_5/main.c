@@ -42,6 +42,8 @@ void in_mang_so(int* arr, int number_of_row, int number_of_collum)
     }
 }
 
+
+
 void cat_hang_mang_chu(char* arr, int number_of_row, int number_of_collum, int cut_row)
 {
     for (int row = cut_row; row < number_of_row-1; row++)

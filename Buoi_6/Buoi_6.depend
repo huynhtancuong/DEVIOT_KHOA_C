@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631736437 source:c:\users\huynh\onedrive\documents\git\deviot_khoa_c\buoi_6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
